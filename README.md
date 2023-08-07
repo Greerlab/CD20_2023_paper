@@ -4,7 +4,7 @@ This repository contains the scripts used for the following study:
 
 ###Hao-Ching Jiang<sup>1,2,3,8</sup>, Sung Jin Park<sup>1,8</sup>, I-Hao Wang<sup>1,2,4</sup>, Daniel M. Bear<sup>5,6</sup>, Alexandra Nowlan<sup>7</sup>, Paul L. Greer<sup>1,*</sup>
 
-<sup>1</sup>Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA, USA
+<sup>1</sup>Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, MA, USA \n
 <sup>2</sup>Morningside Graduate School of Biomedical Sciences, University of Massachusetts Chan Medical School, Worcester, MA, USA
 <sup>3</sup>Program in Neuroscience, University of Massachusetts Chan Medical School, Worcester, MA, USA
 <sup>4</sup>Interdisciplinary Graduate Program, University of Massachusetts Chan Medical School, Worcester, MA, USA
