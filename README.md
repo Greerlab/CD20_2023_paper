@@ -13,3 +13,5 @@ This repository contains the scripts used for the following study:
 <sup>7</sup> Bowles Center for Alcohol Studies, The University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
 <sup>8</sup> These authors contributed equally 
 <sup>*</sup> Corresponding author
+
+Contact: Hao-Ching Jiang (Hao-Ching.Jiang@umassmed.edu), SungJin Park (SungJin.Park@umassmed.edu), and Paul Greer (Paul.Greer@uamssmed.edu)
