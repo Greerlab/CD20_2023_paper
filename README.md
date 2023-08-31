@@ -15,3 +15,9 @@ This repository contains the scripts used for the following study:
 <sup>*</sup> Corresponding author
 
 Contact: Hao-Ching Jiang (Hao-Ching.Jiang@umassmed.edu), SungJin Park (SungJin.Park@umassmed.edu), and Paul Greer (Paul.Greer@uamssmed.edu)
+
+
+### CD20_DEMO folder contains the code and data for DEMO (version information, installation, instructions, etc.)
+### DEMO RNAseq analysis takes <10 mins (including installation)
+### DEMO Calcium imaging analysis takes <10 mins (including installation)
+### DEMO ezTrack analysis takes <20 mins (including installation)
